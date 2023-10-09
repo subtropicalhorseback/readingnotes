@@ -70,6 +70,22 @@ motherboard
    - SATA data connectors for SSD/HDD/CD
    - fan controllers
 
+### Reading 1 - Assignment:
+
+1.	How is a hardware hack different than a software hack?
+   - A hardware hack involves placing or manipulating physical components on the device (physical environment), where software hacking is only conducted in the virtual environment.
+2.	What are the two ways for spies to alter a computer’s hardware?
+   - Interdiction (modification en route) and seeding (modification at origin)
+3.	Explain how the hack worked.
+   - The Chinese government influenced or coerced Supermicro’s China-based subcontractors to place a microchip on server motherboards.
+4.	How were investigators able to trace the chips back to the source?
+   - They “drew on the prodigious tools at their disposal” to track the chips to China-based subcontractors who had been contacted by PLA members.
+
+
+### Lab 1
+
+We disassembled the computer and documented the components.
+
 ### Links
 
 Here are some valuable links:
