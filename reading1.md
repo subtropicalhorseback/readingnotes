@@ -1,12 +1,20 @@
-# Ian's Ops Reading Notes
+# OPS 102 Reading Notes
 
-## Readings for 102
+##  Day 1 (9 Oct 23)
 
-### Day 1 (Oct 9 2023)
+### First half
 
-We discussed growth mindset, learning in the pit, using tools to advance, etc.
+Here's a top-level bulleted list of what we've talked about:
+- Balance of personal vs ops computers
+- Tools/websites
+- Growth Mindset
+- Learning in the 'pit'
+- Overall structure of the course
+- New github repo
+   - cite chatgpt by sharing conversations https://chat.openai.com/share/f5a73920-5f5c-41ac-95f3-c50d2a538a3e
+   - cite github references by sharing links https://github.com/RogerHuba/ops-reading-notes/blob/main/reading1.md
+- Existence of VSC and use for side-by-side .md editing/preview
 
-This is a numbered list:
-1. text
-2. text
-3. text
+### Links
+
+Here are some valuable links:
