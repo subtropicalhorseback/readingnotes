@@ -9,3 +9,5 @@ This repo documents my reading and class/lecture notes for Code Fellows Ops 102-
 ### [Reading 4](readingnotes4.md)
 ### [Reading 5](readingnotes5.md)
 ### [Reading 6](readingnotes6.md)
+### [Reading 7](reading7.md)
+### [Reading 8](reading8.md)
