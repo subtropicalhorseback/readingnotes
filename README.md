@@ -4,7 +4,7 @@ This repo documents my reading and class/lecture notes for Code Fellows Ops 102-
 ## Ops 201
 
 ### Prework
-#### [Prompt Engineering](promptengineering.md)
+#### [Prompt Engineering](prompt-engineering.md)
 
 
 
