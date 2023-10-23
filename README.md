@@ -3,9 +3,12 @@ This repo documents my reading and class/lecture notes for Code Fellows Ops 102-
 
 ## Ops 201
 
+### Readings
+#### [Class 1](class1.md)
+
+
 ### Prework
 #### [Prompt Engineering](prompt-engineering.md)
-
 
 
 ## Ops 102
