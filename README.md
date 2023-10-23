@@ -5,7 +5,7 @@ This repo documents my reading and class/lecture notes for Code Fellows Ops 102-
 
 ### Readings
 #### [Class 1](class1.md)
-
+#### [Class 2](class2.md)
 
 ### Prework
 #### [Prompt Engineering](prompt-engineering.md)
