@@ -1,0 +1,21 @@
+# Class 4 Reading
+## A+ Troubleshooting Techniques
+
+### What are the five main sections included in the Windows Defender Security Center, and what functionalities do they offer?
+   - Virus and Threat Protection (set up antivirus and view scan history)
+   - Device Performance and Health (monitor battery life and storage)
+   - Firewall and Network Protection (configure firewall and network rules)
+   - App and Browser Control (Smartscreen and file checking)
+   - Family Options - (Parental controls, scheduling)
+
+### What information does the “Device performance & health” section provide, and how can you access it?
+   - Access it through WDSC; it shows battery life, storage capacity, restore/refresh Windows, and driver versions.
+     
+### How does the Windows Defender Security Center notify you of issues that require your attention?
+   - With a black exclamation on a yellow triangle
+
+### What features are managed under the “Firewall & network protection” section in the Windows Defender Security Center?
+   - Firewall settings and network troubleshooting, plus some information about local networks
+
+### How does the concept of “security” in Windows Defender Security Center relate to your own experiences in keeping your personal belongings safe? Share some strategies you use to protect your belongings and how they might parallel the security measures used in the digital world.
+   - A firewall works like a real wall; I only want certain items to remain in my storage space and only authorize certain people or services to read/write/execute.
