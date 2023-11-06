@@ -1,0 +1,18 @@
+# Class 11 Reading
+## Data Restoration, Startup Repair, and Secure Disposal
+
+
+### What are some common indicators that an SSD may be failing?
+   - According to the article, "Saving, reading, and moving files may result in failure; active applications may operate slowly or frequently crash; the user may receive prompts to repair the file system; and general performance may steadily decrease, especially when handling large files."
+
+### How do SSD failures differ from HDD failures in terms of detectability?
+   - SSD failure is more evident through software interaction; HDD failure can be audible/physical and therefore detectable earlier.
+
+### What are bad blocks in an SSD, and how do they affect its performance?
+   - They are storage segments that either have memory corruption or physical damage, impeding data storage and retrieval.
+
+### How can power cycling an SSD help resolve certain issues?
+   - Removing the power supply to an SSD can basically reset it, which may or may not help resolve the problem.
+
+### How might this topic be relevant in the aftermath of a natural disaster? Describe how individuals or communities can use these techniques to recover data and resume their normal activities.
+   - I thought about hospitals in New Orleans, LA in the wake of Hurricane Katrina (2005). The ability for emergency services to get back up and running was critical to saving lives - and it's not like they had alternate local sites to operate from.
