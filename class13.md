@@ -1,0 +1,18 @@
+# Class 13 Reading
+## Cloud Virtualization with AWS
+
+### How has virtualization evolved beyond desktops and servers?
+   - Hypervisors act as virtualization managers, and EC2 'instances on demand' are certainly more advanced configuration and better ad hoc computing power than just standard vm desktops and servers.
+
+### In the context of the Amazon IaaS Cloud Service Model, what does EC2 stand for?
+   - Elastic Compute Cloud
+
+### What types of storage does EC2 use, and how is EC2 web traffic managed?
+   - Either ephemeral or elastic block storage snapshots in S3
+
+### What are the benefits of service-oriented architecture for customers of EC2 virtualized services?
+   - The ability to control virtualization through a web interface and to control the whole system through an API.
+
+### Analyze how cloud virtualization can promote equitable access to technology resources across diverse populations. How can this technology bridge cultural gaps and empower underserved communities?
+   - Cloud virtualization in Seattle, where tech thrives, brings equitable tech access by allowing folks from all backgrounds to tap into shared resources, leveling the digital playing field. It connects diverse communities, fostering empowerment by democratizing tech, just like how coffee shops in the Emerald City bring people together over a latte.
+   - I got help from Chat GPT answering this question: https://chat.openai.com/share/519e096e-0e4d-478c-a4cc-cb3da168dae8
