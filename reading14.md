@@ -1,0 +1,31 @@
+# Class 14 Reading
+## Psychological Safety
+
+### What are three key factors that contribute to psychologically safe teams?
+   - Interpersonal trust
+   - Mutual respect
+   - Empathy
+
+### Evaluate, with details, a previous professional setting (or team) you were in with regards to psychological safety.
+   - I worked on a critical national security team and we were constantly bullying one another, using direct language, pointing out fallacies or assumptions - I called the culture the 'wolf pit' - but we were committed to the mission, so the outcome was that the strongest ideas were implemented and the weaker ideas were criticized out of existence. It was a dark, twisted place and completely toxic, but the culture was necessary to do the work we were doing as well as we did.
+
+### What impact do teams that operate with a high degree of psychological safety have on their company and the team members?
+   - Teams with high psychological safety foster innovation, collaboration, and well-being, resulting in improved company performance and, apparently, individual satisfaction.
+
+
+## Malware Remediation Tools and Techniques
+
+### What are the main differences between anti-virus and anti-malware software?
+   - Anti-virus is signature based and anti-malware is behavior-based. Anti-malware has a reduced resource draw compared to anti-virus. I suspect fewer people have anti-malware programs installed on their systems.
+
+### What are some signs or symptoms that may indicate a malware infection on your PC?
+   - Slow performance, an increase in pop-up advertisements, other technical anomalies.
+
+### Explain the difference between a full system scan and a quick scan when using antimalware software.
+   - The full scan is very thorough but takes a long time; a quick scan prioritizes high risk areas to scan but isn't as thorough.
+
+### What should you do if your computer is infected with ransomware?
+   - Disconnect from the internet and isolate the device.
+
+### ACompare and contrast malware removal techniques in Windows PCs with those in other operating systems like macOS or Linux. How might these different approaches reflect the cultural values and priorities of the technology users?
+   - Honestly, if cultural values and priorities are limiting the way that someone approaches the identification and removal of malware from their system, then they shouldn't be responsible for the system in a technical context. The only thing that matters for cybersecurity is whether the cyber is secure - not how someone feels about it personally. 
