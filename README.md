@@ -33,3 +33,6 @@ This repo documents my reading notes and assignments for CodeFellows' Ops 102-20
 16. [Psychological Safety and Malware Remediation Tools and Techniques](201_14.md)
 
 **Ops 301: Networking and Systems Administration**
+
+1. [OSI Model and Wireshark](301_01.md)
+2. [Network Scanning with nmap](301_02.md)
