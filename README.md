@@ -2,16 +2,25 @@
 This repo documents my reading notes and assignments for CodeFellows' Ops 102-201-301-401, which are housed within their [Cybersecurity Track](https://www.codefellows.org/learn-cybersecurity/).
 
 **Ops 401: Cybersecurity Engineering**
+
+*Module 1: Governance, Risk, and Compliance (GRC)*
+
 1.
 2. placeholder
 3. placeholder
 4. placeholder
 5. placeholder
+
+*Module 2*
+
 6. placeholder
 7. placeholder
 8. placeholder
 9. placeholder
 10. placeholder
+
+*Module 3* 
+
 11. placeholder
 12. placeholder
 13. placeholder

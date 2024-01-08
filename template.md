@@ -1,7 +1,8 @@
 # Class _ Reading
- C
 
-[resource]()
+C
+
+[Resource]()
 
 > ?
    - .
