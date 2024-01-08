@@ -5,7 +5,7 @@ This repo documents my reading notes and assignments for CodeFellows' Ops 102-20
 
 *Module 1: Governance, Risk, and Compliance (GRC)*
 
-1.
+1. [Strategic Policy Development - SOC2 Compliance](40101.md)
 2. placeholder
 3. placeholder
 4. placeholder
