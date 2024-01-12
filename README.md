@@ -8,7 +8,7 @@ This repo documents my reading notes and assignments for CodeFellows' Ops 102-20
 1. [Strategic Policy Development - SOC2 Compliance](40101.md)
 2. [AWS Compute Abstractions](40102.md)
 3. [Security and Risk Management](40103.md)
-4. placeholder
+4. [Systems Hardening with CIS Standards](40104.md)
 5. placeholder
 
 *Module 2*
